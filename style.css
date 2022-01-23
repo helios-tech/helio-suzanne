@@ -78,7 +78,7 @@ section.imagem {
     color: white;
     box-shadow: inset 6px 6px 13px 0px black;
     background-attachment: fixed;
-    width: 96vw;
+    width: 100%
     
 }
 
